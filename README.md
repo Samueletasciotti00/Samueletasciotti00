@@ -18,8 +18,5 @@
 
 🌍 I'm interested in open source contributions and collaborating on innovative projects.
 
-📫 How to reach me: 
-
-
 🚀 Check out my latest projects below!
 
