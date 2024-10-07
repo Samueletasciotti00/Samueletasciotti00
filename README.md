@@ -1,6 +1,6 @@
 <h1 align='center'>👋 Hi, I’m Samuele!</h1>
 
-<h4 align='center'>As a technology lover and an ever-evolving developer, this is where I share my projects, ideas, and a bit of coding fun!</h4>
+<h4 align='center'>Front-end Developer</h4>
 <br>
 <br>
 
