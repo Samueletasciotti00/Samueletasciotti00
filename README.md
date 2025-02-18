@@ -15,6 +15,7 @@
   
 - **PHP & Laravel**
 
+- **Python** 
 
 🌍 I'm interested in networking and coding 🧑🏻‍💻.
 
