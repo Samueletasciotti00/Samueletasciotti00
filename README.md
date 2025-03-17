@@ -8,8 +8,6 @@
 
 🤓 I’m currently learning **React, TypeScript**.
 
-⚡ Fun fact You can find easter eggs in my codes, because why not!
-
 🧠 I have experience in:
 - **JavaScript & Vue**
   
