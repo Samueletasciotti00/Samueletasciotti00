@@ -1,21 +1,13 @@
 <h1 align='center'>👋 Hi, I’m Samuele!</h1>
 
-<h4 align='center'>Front-end Developer</h4>
+<h4 align='center'>Freelance Web Developer</h4>
 <br>
 <br>
 
-💻 I’m a **Junior Front-end Developer** with a passion for **creating responsive web applications**.
+🌍 I’m a **freelance developer and citizen of the world**, driven by the desire to **travel and build challenging digital applications** that make an impact.
 
-🤓 I’m currently learning **React, TypeScript**.
+💻 I specialize in **Vue.js** and **Adonis.js**, creating modern, clean, and efficient web experiences.
 
-🧠 I have experience in:
-- **JavaScript & Vue**
-  
-- **PHP & Laravel**
+🧠 I enjoy working with **TypeScript** and **Python**, continuously improving my skills and exploring new technologies.
 
-- **Python** 
-
-🌍 I'm interested in networking and coding 🧑🏻‍💻.
-
-🚀 Check out my latest projects below!
-
+🚀 Always open to collaborations and exciting projects — let’s create something great together!
